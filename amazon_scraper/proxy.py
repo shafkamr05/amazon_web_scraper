@@ -5,7 +5,7 @@ from stem.control import Controller
 
 def renew_connection():
     with Controller.from_port(port = 9151) as controller:
-        controller.authenticate(password="Shafay97271954!")
+        controller.authenticate(password="Shafay97271954")
         controller.signal(Signal.NEWNYM)
 
 
