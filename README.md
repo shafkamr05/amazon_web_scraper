@@ -14,8 +14,9 @@ This project showcases my web scraping skills by using the Tor browser alongside
 - Tor Browser
 
 ## Usage
-1. Ensure you have Tor installed and running.
+1. Ensure you have Tor browser installed and running.
 2. Install above dependencies:
    ```sh
    pip install beautifulsoup4 requests
+3. Run the program.
 
